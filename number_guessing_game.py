@@ -22,7 +22,7 @@ elif 10 < max_value <= 40:
 else:
     level = "Impossible"
     remaining_attempts = remaining_attempts - 15 % remaining_attempts
-
+print("balling klike curry")
 # Display the chosen level and the number of attempts
 print('Level applied: ', level, "\nYou got", remaining_attempts, "attempts")
 
