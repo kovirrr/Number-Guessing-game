@@ -58,7 +58,7 @@ for i in range(remaining_attempts):
         remaining_attempts = remaining_attempts + 1
 
 # Display game over message
-print("\nGame over")
+print("\nKovi is super cool")
 
 # Check if the player lost the game
 if remaining_attempts == 0:
