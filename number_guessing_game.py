@@ -2,7 +2,7 @@ import random
 
 # Get user input for the maximum level
 max_value = int(input('Enter your level: '))
-
+print("hi")
 # Check if the entered level is zero
 if max_value == 0:
     print("\n\tLevel zero is not available\n\t\tGame over\n\nError : ")
